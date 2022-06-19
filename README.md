@@ -13,14 +13,14 @@ npm install --save gantt-chart
 ## Usage
 
 ```tsx
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
-import MyComponent from 'gantt-chart'
-import 'gantt-chart/dist/index.css'
+import MyComponent from 'gantt-chart';
+import 'gantt-chart/dist/index.css';
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <MyComponent />;
   }
 }
 ```
